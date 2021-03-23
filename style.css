@@ -1,0 +1,135 @@
+.full-wrapper {
+    width: 100%;
+}
+.wrapper {
+    width: 1140px;
+    margin: 0 auto;
+}
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+ul,ol {
+    list-style-type: none;
+}
+.header-menu {
+    text-align: center;
+}
+.header-menu ul {
+    margin-top: -41px;
+    margin-bottom: 1rem;
+}
+
+.header-menu ul li{
+    display: inline-block;
+}
+.header-menu ul li a {
+    font-size: 12px;
+    padding: 5px;
+    color: black;
+}
+.header-logo img {
+    width: 114px;
+    margin-top: 17px;
+    margin-left: 95px;
+}
+.search {
+    width: 15px;
+    display: inline-block;
+}
+.call {
+    width: 15px;
+    display: inline;
+}
+.menu-2 {
+    width: 242px;
+    float: right;
+    margin-top: -45px;
+}
+.header-menu {
+    text-align: center;
+    width: 400px;
+    margin-left: 489px;
+    margin-top: 16px;
+}
+
+.col-md-6.text {
+    margin-left: 79px;
+    margin-top: 104px;
+}
+.col-md-6.pic img {
+    width: 397px;
+    margin-left: 659px;
+    margin-top: -315px;
+}
+.btn {
+    margin-top: -5px;
+}
+.header-2 {
+    background-color: #a9a9a942;
+}
+.rp-text {
+    text-align: center;
+    padding-top: 55px;
+    padding-bottom: 21px;
+}
+.rp-text h6 {
+    font-size: small;
+    color: red;
+}
+.rp-text p {
+    color: #777171;
+}
+.card-body img {
+    width: 321px;
+    margin-bottom: 14px;
+}
+.card-body {
+    border-style: none;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #ea8484;
+}
+.card-body p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: red;
+}
+.btn-primary {
+    color: #131212;
+    margin-left: -12px;
+    font-weight: 700;
+}
+a.btn.btn-primary {
+    border: none;
+    margin-top: 5px;
+    margin-left: 0px;
+}
+.logos {
+    text-align: center;
+    padding-top: 56px;
+    margin-left: 51px;
+}
+.logos img {
+    padding: -11px;
+    margin-right: 34px;
+}
+.all-logo {
+    background: #a9a9a94a;
+    padding-bottom: 48px;
+}
+section.full-wrapper.contact-us {
+    background: black;
+    color: white;
+    padding-top: 75px;
+    font-weight: 200;
+}
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgb(243 243 243 / 54%);
+}
